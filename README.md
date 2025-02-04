@@ -55,7 +55,9 @@ Abra o Postman.
 
 Crie uma nova requisição POST para:
 
+```
 http://localhost:8080/?query=Qual o maior paiz do mundo?
+```
 
 No corpo da requisição (JSON), envie algo como:
 

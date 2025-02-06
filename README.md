@@ -17,7 +17,7 @@ Este repositório contém um exemplo funcional de como utilizar a API da Deep Se
 
 ## 🎥 Vídeo Tutorial
 
-Assista ao tutorial completo no YouTube: Clique aqui (Adicione o link do vídeo aqui)
+Assista ao tutorial completo no YouTube: Clique aqui (https://youtu.be/mBr02gz9l_s)
 
 🚀 Tecnologias Utilizadas
 
